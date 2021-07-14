@@ -1,0 +1,27 @@
+body{
+    text-align:center;
+    font-family: serif;
+    }
+
+h1{
+    text-align: center;
+     color: blue;
+}
+h2{
+    color: rosybrown;
+    text-shadow: 2px 3px 4px ;
+    text-indent: center;
+    
+}
+h3{
+    color: seagreen;
+}
+p{
+    color:purple;
+}
+ol,ul,li {
+    color: tomato;
+}
+.p{
+    text-align: center;
+}
